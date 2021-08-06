@@ -1,0 +1,11 @@
+.Menu {
+  flex: 1;
+  margin-right: 30px;
+  margin-bottom: -25px;
+}
+
+@media (max-width: 768px) {
+  .Menu {
+    margin-right: 0;
+  }
+}
